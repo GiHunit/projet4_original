@@ -4421,8 +4421,8 @@ tbody.collapse.in {
 .navbar-fixed-bottom .dropdown .caret {
     content: "";
     border-top: 0;
-    border-bottom: 4px dashed;
-    border-bottom: 4px solid\9
+    border-bottom: 40px dashed;
+    border-bottom: 4px solid;
 }
 
 .dropup .dropdown-menu,
@@ -7064,7 +7064,6 @@ button.close {
 }
 
 .modal-open {
-    overflow: hidden
 }
 
 .modal {
